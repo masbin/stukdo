@@ -1,0 +1,54 @@
+
+.navbar {
+font-size: 12px;
+font-weight: 300;
+
+}
+
+a.navbar-brand {
+
+}
+
+// BUTTONS
+
+.btn {
+	text-transform: uppercase;
+	padding: 10px 20px;
+	border: transparent;
+}
+
+.btn-lg, .btn-group-lg > .btn {
+	padding: 15px 30px;
+}
+
+.btn-sm, .btn-group-sm > .btn {
+	padding: 8px 15px;
+}
+
+.btn-xs, .btn-group-xs > .btn {
+padding: 5px 10px;
+font-size: 11px;
+}
+
+// FONTS
+
+p.small {
+font-size: 14px;
+font-weight: 300;
+}
+
+// LOGIN
+
+.jumbotron {
+    margin-top: 75px;
+    background-color:rgba(0, 0, 0, 0.5);
+}
+
+.jumbotron h2 {
+	font-weight: 600;
+}
+
+p {
+	font-weight: 300;
+	font-size: 16px;
+}
